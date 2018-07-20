@@ -1,1 +1,3 @@
 Here is stome text we are addin into demo.txt.
+
+git add demo.txt
